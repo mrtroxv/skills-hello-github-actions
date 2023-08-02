@@ -1,4 +1,5 @@
 <header>
+<h1>hi</h1>
 
 <!--
   <<< Author notes: Course header >>>
